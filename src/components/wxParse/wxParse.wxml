@@ -1,0 +1,4 @@
+<import src="./tmpl/tmpl.wxml"/>
+<view class="wxParse my-class">
+  <template is="wxParse" data="{{wxParseData:article.nodes}}"/>
+</view>

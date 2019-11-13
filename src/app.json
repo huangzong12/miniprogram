@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/login/index"
+  ],
+  "networkTimeout": {
+    "request": 60000,
+    "uploadFile": 60000
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#9D111D",
+    "navigationBarTitleText": "导航栏标题文字内容",
+    "navigationBarTextStyle": "white"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

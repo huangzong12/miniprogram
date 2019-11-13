@@ -1,0 +1,10 @@
+*.log*
+.cache
+.DS_Store
+.idea
+.vscode
+node_modules
+project.config.json
+dist
+.history
+package-lock.json

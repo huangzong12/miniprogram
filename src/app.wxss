@@ -1,0 +1,8 @@
+page {
+  color: #333;
+  font-size: 14px;
+  background: #f2f3f5;
+  min-height: 100vh;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+}
